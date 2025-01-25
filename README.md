@@ -1,4 +1,15 @@
-# codtech-dm-internship
+# COMPANY NAME: CODTECH IT SOLUTIONS - DIGITAL MARKETING INTERNSHIP TASKS
+
+# NAME: RAMA KRISHNA VANKAM
+
+# INTERN CODE: CT08NLC
+
+# DOMAIN: DIGITAL MARKETING
+
+# DURATION: 4 WEEKS
+
+# MENTOR: NEELA SANTOSH 
+
 
 # TASK - 1: SOCIAL MEDIA POST CALENDAR
 https://github.com/skillxuplp/codtech-dm-internship/blob/main/TASK%201%20-%2030-Day%20Social%20Media%20Calendar.xlsx
