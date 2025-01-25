@@ -11,7 +11,7 @@
 *CREATE A 30-DAY SOCIAL MEDIA POST CALENDAR FOR A BRAND, INCLUDING CAPTIONS, HASHTAGS, AND IMAGE IDEAS.
 DELIVERABLE: A DETAILED CONTENT CALENDAR IN EXCEL OR GOOGLE SHEETS*
 
-*TASK -1: DESCRIPTION:*
+*TASK - 1: DESCRIPTION:*
 
 #Tools:
 1. Excel or Google Sheets: For creating and organizing the content calendar.
@@ -37,7 +37,8 @@ https://github.com/skillxuplp/codtech-dm-internship/blob/main/TASK%201%20-%2030-
 DELIVERABLE: A COMPREHENSIVE CONTENT MARKETING PLAN DOCUMENT.*
 
 *TASK - 2: DESCRIPTION*
-#Tools Utilized:
+
+#Tools:
 
 1. Content Management Systems (CMS): Platforms like WordPress or HubSpot are essential for creating, managing, and publishing content. They provide templates, plugins, and analytics to streamline the content creation process.
 2. SEO Tools: Tools like SEMrush or Ahrefs are used for keyword research, competitor analysis, and optimizing content for search engines. These tools help in identifying high-volume, low-competition keywords to improve organic reach.
@@ -45,6 +46,7 @@ DELIVERABLE: A COMPREHENSIVE CONTENT MARKETING PLAN DOCUMENT.*
 4. Social Media Management Tools: Hootsuite or Buffer are used for scheduling and promoting content across various social media platforms. These tools help in managing multiple accounts, tracking engagement, and analyzing the performance of social media campaigns.
 
 #Applicability:
+
 This task is applicable to various industries and businesses aiming to enhance their online presence and engage with their audience more effectively. It can be particularly useful for:
 
 1. Startups and Small Businesses: To establish a strong online presence and attract potential customers.
