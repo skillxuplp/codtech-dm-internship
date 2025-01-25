@@ -1,13 +1,9 @@
 # COMPANY NAME: CODTECH IT SOLUTIONS - DIGITAL MARKETING INTERNSHIP TASKS
 
 *NAME*: RAMA KRISHNA VANKAM
-
 *INTERN CODE*: CT08NLC
-
 *DOMAIN*: DIGITAL MARKETING
-
 *DURATION*: 4 WEEKS
-
 *MENTOR*: NEELA SANTOSH 
 
 
@@ -24,11 +20,11 @@ Tools:
 
 Applicability:
 This task is applicable in various scenarios, including:
-•	Brand Launches: For new brands looking to establish a strong online presence and build an engaged community from the outset.
-•	Marketing Campaigns: During specific marketing campaigns where consistent and targeted content is needed to drive awareness and conversions.
-•	Seasonal Promotions: For brands planning seasonal or holiday-specific promotions, ensuring that the content is timely and relevant.
-•	Ongoing Content Strategy: As part of an ongoing content strategy to maintain a consistent flow of engaging content that keeps the audience interested and loyal.
-•	Rebranding Efforts: During rebranding initiatives where a fresh and cohesive content strategy is needed to reflect the new brand identity.
+1. Brand Launches: For new brands looking to establish a strong online presence and build an engaged community from the outset.
+2. Marketing Campaigns: During specific marketing campaigns where consistent and targeted content is needed to drive awareness and conversions.
+3. Seasonal Promotions: For brands planning seasonal or holiday-specific promotions, ensuring that the content is timely and relevant.
+4. Ongoing Content Strategy: As part of an ongoing content strategy to maintain a consistent flow of engaging content that keeps the audience interested and loyal.
+5. Rebranding Efforts: During rebranding initiatives where a fresh and cohesive content strategy is needed to reflect the new brand identity.
 
 *TASK -1 GITHUB LINK:*
 https://github.com/skillxuplp/codtech-dm-internship/blob/main/TASK%201%20-%2030-Day%20Social%20Media%20Calendar.xlsx
